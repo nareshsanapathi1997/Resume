@@ -1,0 +1,10 @@
+{
+  "name": "naresh-profile-web-sidebar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kickresume-style sidebar profile page built with React via CDN",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "dev": "python3 -m http.server 4173"
+  }
+}
